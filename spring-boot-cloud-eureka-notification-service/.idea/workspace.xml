@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7023af65-f04f-4ee8-941b-0b0fe61e04e6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../spring-boot-cloud-authentication-service/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-cloud-authentication-service/.idea/sonarlint/issuestore/7/8/780e8c70546de75bd8336e0cda0b567d81b86175" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-cloud-authentication-service/.idea/sonarlint/issuestore/b/6/b6be8c2fee0b9fe4b1ece2ea0f5617c29c5cb169" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../spring-boot-cloud-authentication-service/.idea/sonarlint/issuestore/d/f/df9443c878077fe6034b9a18db51233ec93d8600" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/io/getstarted/spring/Application.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/io/getstarted/spring/EchoGetResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/io/getstarted/spring/EchoPostRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/io/getstarted/spring/EchoPostResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/java/io/getstarted/spring/PostmanEchoClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/resources/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/main/resources/application.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/io/getstarted/spring/ApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/java/io/getstarted/spring/PostmanEchoClientTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/resources/.keep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/resources/echo-get-response.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../src/test/resources/echo-post-response.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2H0DS3PGfzAy7nQfGqrKgTWFh54" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="EurekaClientConfig" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-boot-cloud-eureka-notification-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.javadeveloperzone.EurekaClientConfig" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7023af65-f04f-4ee8-941b-0b0fe61e04e6" name="Default Changelist" comment="" />
+      <created>1667413103444</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667413103444</updated>
+      <workItem from="1667413104626" duration="24000" />
+      <workItem from="1667413140258" duration="290000" />
+      <workItem from="1667417485366" duration="752000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2663" y="298" width="888" height="491" key="FileChooserDialogImpl" timestamp="1667413271906">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2663" y="298" width="888" height="491" key="FileChooserDialogImpl/72.27.1848.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1667413271906" />
+  </component>
+</project>

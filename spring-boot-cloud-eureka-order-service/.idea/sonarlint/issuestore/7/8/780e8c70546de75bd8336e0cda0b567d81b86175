@@ -1,0 +1,9 @@
+
+X
+java:S1611/"=Remove the parentheses around the "requestTemplate" parameter(ÊÆØŽûÿÿÿÿ
+G
+java:S1602/",Remove useless curly braces around statement(ÊÆØŽûÿÿÿÿ
+y
+java:S1488)"dImmediately return this expression instead of assigning it to the temporary variable "restTemplate".(— ’
+m
+java:S22595"RA "NullPointerException" could be thrown; "getRequestAttributes" is nullable here.(Å¹ôðùÿÿÿÿ

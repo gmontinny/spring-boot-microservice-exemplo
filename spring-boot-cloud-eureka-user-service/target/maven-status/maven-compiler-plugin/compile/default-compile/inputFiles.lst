@@ -1,0 +1,9 @@
+/media/giovanny/giovanny_part1/projeto-spring/openfeign/spring-boot-microservice-example/spring-boot-cloud-eureka-user-service/src/main/java/com/javadeveloperzone/controller/UserController.java
+/media/giovanny/giovanny_part1/projeto-spring/openfeign/spring-boot-microservice-example/spring-boot-cloud-eureka-user-service/src/main/java/com/javadeveloperzone/modal/UserDetails.java
+/media/giovanny/giovanny_part1/projeto-spring/openfeign/spring-boot-microservice-example/spring-boot-cloud-eureka-user-service/src/main/java/com/javadeveloperzone/config/CustomClientHttpRequestInterceptor.java
+/media/giovanny/giovanny_part1/projeto-spring/openfeign/spring-boot-microservice-example/spring-boot-cloud-eureka-user-service/src/main/java/com/javadeveloperzone/modal/Order.java
+/media/giovanny/giovanny_part1/projeto-spring/openfeign/spring-boot-microservice-example/spring-boot-cloud-eureka-user-service/src/main/java/com/javadeveloperzone/service/UserService.java
+/media/giovanny/giovanny_part1/projeto-spring/openfeign/spring-boot-microservice-example/spring-boot-cloud-eureka-user-service/src/main/java/com/javadeveloperzone/modal/User.java
+/media/giovanny/giovanny_part1/projeto-spring/openfeign/spring-boot-microservice-example/spring-boot-cloud-eureka-user-service/src/main/java/com/javadeveloperzone/EurekaClientConfig.java
+/media/giovanny/giovanny_part1/projeto-spring/openfeign/spring-boot-microservice-example/spring-boot-cloud-eureka-user-service/src/main/java/com/javadeveloperzone/config/SwaggerConfig.java
+/media/giovanny/giovanny_part1/projeto-spring/openfeign/spring-boot-microservice-example/spring-boot-cloud-eureka-user-service/src/main/java/com/javadeveloperzone/repository/UserRepository.java

@@ -1,0 +1,11 @@
+
+c
+java:S1874"ARemove this use of "EnableAuthorizationServer"; it is deprecated.(ĞÏˆÊşÿÿÿÿ8Ğ¾ÁÎÃ0
+i
+java:S1874"LRemove this use of "AuthorizationServerConfigurerAdapter"; it is deprecated.(¼â¢­8Ú¾ÁÎÃ0
+i
+java:S1874"MRemove this use of "AuthorizationServerSecurityConfigurer"; it is deprecated.(©şÅM8ƒ¿ÁÎÃ0
+h
+java:S1874"FRemove this use of "ClientDetailsServiceConfigurer"; it is deprecated.(è¡ïéùÿÿÿÿ8š¿ÁÎÃ0
+p
+java:S1874'"NRemove this use of "AuthorizationServerEndpointsConfigurer"; it is deprecated.(å…Á¼úÿÿÿÿ8¥¿ÁÎÃ0

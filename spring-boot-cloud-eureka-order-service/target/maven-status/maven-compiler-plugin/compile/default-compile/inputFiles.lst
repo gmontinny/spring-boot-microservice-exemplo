@@ -1,0 +1,8 @@
+/media/giovanny/giovanny_part1/projeto-spring/openfeign/spring-boot-microservice-example/spring-boot-cloud-eureka-order-service/src/main/java/com/javadeveloperzone/controller/OrderController.java
+/media/giovanny/giovanny_part1/projeto-spring/openfeign/spring-boot-microservice-example/spring-boot-cloud-eureka-order-service/src/main/java/com/javadeveloperzone/config/SwaggerConfig.java
+/media/giovanny/giovanny_part1/projeto-spring/openfeign/spring-boot-microservice-example/spring-boot-cloud-eureka-order-service/src/main/java/com/javadeveloperzone/EurekaClientConfig.java
+/media/giovanny/giovanny_part1/projeto-spring/openfeign/spring-boot-microservice-example/spring-boot-cloud-eureka-order-service/src/main/java/com/javadeveloperzone/modal/Notification.java
+/media/giovanny/giovanny_part1/projeto-spring/openfeign/spring-boot-microservice-example/spring-boot-cloud-eureka-order-service/src/main/java/com/javadeveloperzone/service/NotificationServiceClient.java
+/media/giovanny/giovanny_part1/projeto-spring/openfeign/spring-boot-microservice-example/spring-boot-cloud-eureka-order-service/src/main/java/com/javadeveloperzone/modal/OrderDetails.java
+/media/giovanny/giovanny_part1/projeto-spring/openfeign/spring-boot-microservice-example/spring-boot-cloud-eureka-order-service/src/main/java/com/javadeveloperzone/repository/OrderDetailsRepository.java
+/media/giovanny/giovanny_part1/projeto-spring/openfeign/spring-boot-microservice-example/spring-boot-cloud-eureka-order-service/src/main/java/com/javadeveloperzone/service/OrderService.java

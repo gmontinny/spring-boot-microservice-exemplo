@@ -1,0 +1,9 @@
+com/javadeveloperzone/config/SwaggerConfig.class
+com/javadeveloperzone/service/NotificationServiceClientFallback.class
+com/javadeveloperzone/modal/Notification.class
+com/javadeveloperzone/repository/OrderDetailsRepository.class
+com/javadeveloperzone/modal/OrderDetails.class
+com/javadeveloperzone/service/OrderService.class
+com/javadeveloperzone/service/NotificationServiceClient.class
+com/javadeveloperzone/controller/OrderController.class
+com/javadeveloperzone/EurekaClientConfig.class

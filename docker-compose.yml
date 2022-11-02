@@ -1,0 +1,66 @@
+version: '3.1'
+
+services:
+  eureka:
+    image: eureka
+    build: ./spring-boot-cloud-eureka-server
+    ports:
+    - "8761:8761"    
+    networks:
+      - commons-api
+    container_name: eureka-server
+  gateway:
+    image: api-gateway
+    build: ./spring-boot-cloud-api-gateway-routing
+    ports:
+    - "8080:8080"    
+    networks:
+      - commons-api
+    depends_on:      
+      - eureka
+    container_name: api-gateway
+  user-service:
+    image: user-service
+    build: ./spring-boot-cloud-eureka-user-service
+    ports:
+    - "8181:8181"    
+    networks:
+      - commons-api
+    depends_on:      
+      - gateway
+    container_name: user-service
+  order-service:
+    image: order-service
+    build: ./spring-boot-cloud-eureka-order-service
+    ports:
+    - "8282:8282"    
+    networks:
+      - commons-api
+    depends_on:      
+      - gateway
+    container_name: order-service
+#  notification:
+#    image: notification-service
+#    build: ./spring-boot-cloud-eureka-notification-service
+#    ports:
+#    - "8383:8383"    
+#    networks:
+#      - commons-api
+#    depends_on:      
+#      - gateway
+#    container_name: notification-service
+#  authentication:
+#    image: authentication-service
+#    build: ./spring-boot-cloud-authentication-service
+#    ports:
+#    - "8484:8484"    
+#    networks:
+#      - commons-api
+#    depends_on:      
+#      - gateway
+#    container_name: authentication-service
+
+
+networks:
+  commons-api:
+    driver: bridge

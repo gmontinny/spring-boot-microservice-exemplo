@@ -1,0 +1,25 @@
+
+X	java:S1253"<This block of commented-out lines of code should be removed.(îô´º8…»‡ĞÃ0
+X	java:S125@"<This block of commented-out lines of code should be removed.(Îè†8¨ú†ĞÃ0
+X	java:S125E"<This block of commented-out lines of code should be removed.(Âü‹½8××†ĞÃ0
+]	java:S125P"<This block of commented-out lines of code should be removed.(§Ù¡üÿÿÿÿÿ8×õ€ĞÃ0
+c
+java:S1128"ARemove this unused import 'org.springframework.http.HttpHeaders'.(ãŸñ×úÿÿÿÿ8—†ˆĞÃ0
+^
+java:S1128	"<Remove this unused import 'springfox.documentation.service'.(Á–û€üÿÿÿÿ8—†ˆĞÃ0
+u
+java:S1128"YRemove this unused import 'springfox.documentation.spi.service.contexts.SecurityContext'.(³ã¼8˜†ˆĞÃ0
+p
+java:S1128"NRemove this unused import 'springfox.documentation.swagger.web.ApiKeyVehicle'.(àÿ´ûùÿÿÿÿ8˜†ˆĞÃ0
+x
+java:S1128"VRemove this unused import 'springfox.documentation.swagger.web.SecurityConfiguration'.(Á¤ãüÿÿÿÿ8˜†ˆĞÃ0
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8™†ˆĞÃ0
+O
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8™†ˆĞÃ0
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8™†ˆĞÃ0
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8™†ˆĞÃ0
+I
+java:S1144Y",Remove this unused private "apiInfo" method.(Áÿš“8š†ˆĞÃ0
